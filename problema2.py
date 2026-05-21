@@ -1,8 +1,9 @@
 # ============================================================
 # Universidad Nacional Abierta y a Distancia - UNAD
-# Curso: Fundamentos de Programacion (213022)
+# Fundamentos de Programacion 
+# Grupo: 213022_34
 # Fase 5 - Evaluacion Final POA
-# Problema 3: Auditoria de inventario y calculo de pedidos
+# Problema2 : Gestión de precios con promociones en un menú
 # Estudiante: Josias Madera Martinez
 # Fecha: Mayo de 2026
 # ============================================================
